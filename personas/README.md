@@ -1,6 +1,6 @@
 # Personas
 
-![](!!!image_filename.png!!!)
+![](oldmanjoe.jpg)
 
 Grandpa Joe: 
 Joe is 75 boomer, retired, lives with his wife, kids have moved away from their town for work and have kids of their own. His grandkids say he is not woak enough so he is going online more. He likes to learn and connect with people. He likes to be able to be independent and also likes to find local dance nights to take his wife to
@@ -13,7 +13,7 @@ He could use Passguard, and our goal would be to help him keep his passwords all
 
 # Personas
 
-![](!!!image_filename.png!!!)
+![](tiffany.jpg)
 
 Tiffany WIlliams is 32 and works in the fashion industry working with cad files and high profile industry information. She works on the cloud and other programs through her job. She is pregnant and  is preparing for a child with her partner. She is very on top of her work and particular about how stuff gets done and when it is done. Her priorities are at a shifting point from work to family as the time for her child being born is coming soon.
 
