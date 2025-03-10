@@ -21,7 +21,10 @@
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+  * Learned though creating personas how and what users would do with our application [Personas and Scenarios](personas/)
+  * Looked at Google password manager as main competitor they are well established
+  * with Heuristic Evaluation determined Google password manager is well designed and does similar tasks
+  * [Sketches and Diagrams](sketches/)
 
 [Full phase I report](phaseI/)
 
