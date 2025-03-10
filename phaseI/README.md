@@ -2,20 +2,24 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+We are trying to find our main competitors and find out what they do not do so we can find our niche that we can fill with passguard.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+When making personas found out what users would want and need in a password manager 
+I searched up the top password managers and looked at the lists of top password managers with lists including google password manager, NordVPN and a bunch more.
+With Heuristics I looked more into google password manager since it is free.
+
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+The Personas made it so how the app could be used and what would be wanted or needed within the application, such as ease of use, possibility of password leaks, and ways to store the passwords.
+The heuristics showed that it would be a hard market to push our way into the market. Googles features are not only refined but are free. they also have a pretty robust system to handle many users and large amounts of data.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The findings showed that it is going to be a hard market to break into and we have to find a strong niche to fit into that hasn't been overdone or that could compromise our security.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The caveats are that most all of the other password managers are pay to use and we can't find out all of the features and how easier or difficult they are to use. A greater sample would do a great amount of help to refine our own app and understanding of layout and set up. Since Google is a search engine first email second and the password manager was made along the way until now, it makes it hard to truely compare their password manager to ours as it is  quite a different focus.
