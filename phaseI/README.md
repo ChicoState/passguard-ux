@@ -14,7 +14,7 @@ With Heuristics I looked more into google password manager since it is free.
 ## Findings
 
 The Personas made it so how the app could be used and what would be wanted or needed within the application, such as ease of use, possibility of password leaks, and ways to store the passwords.
-The heuristics showed that it would be a hard market to push our way into the market. Googles features are not only refined but are free. they also have a pretty robust system to handle many users and large amounts of data.
+The heuristics showed that it would be a hard market to push our way into the market. Googles features are not only refined but are free. they also have a pretty robust system to handle many users and large amounts of data, but has most of the password manager features harder to find and not quite upfront about how to use it. 
 
 ## Conclusions
 
