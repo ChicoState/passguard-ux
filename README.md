@@ -5,7 +5,7 @@ This is a password manager that will check if your password has been leaked befo
 
 ## UX Team Members
 
-* **[Malene-Kavanagh](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **[Malene-Kavanagh](https://github.com/UsabilityEngineering/portfolio-Malene-Kavanagh)** - !!!List of Person A's primary contributions!!!
 * **[Alexander-Baron](https://github.com/alexb02h/AlexBaronPortfolio/tree/main/journal)** - !!!List of Person B's primary contributions!!!
 
 
