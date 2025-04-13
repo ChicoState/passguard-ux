@@ -27,16 +27,17 @@
 
 From our research methods, we were able to obtain key insights into user behavior, expectations, and interface clarity: <br/>
 
-#**From the Cognitive Walkthrough** <br/>
+###**From the Cognitive Walkthrough** <br/>
    * **Missing Sign-Up Page Identified** <br/>
       Both users expected a sign-up option during the Walkthrough but they could not find one. This indicated that there is a critical usability gap, highlighting the assumption that account creation is a standard part of app interaction <br/>
-      - _UX Insight_ : Users rely on conventional flows, absence of expected elements can cause uncertainty <br/>
-      - _Design Recommendation_ : Ensure that assumptions are met, especially common assumptions like sigh-up/login <br/>
+      - _UX Insight_ : Users rely on conventional flows, absence of expected elements can cause uncertainty. <br/>
+      - _Design Recommendation_ : Ensure that assumptions are met, especially common assumptions like sigh-up/login. <br/>
 
-#**From Informal User Survey** <br/>
+###**From Informal User Survey** <br/>
    * **Desire for Quick and Easy Access to Functions** <br/>
-      - _UX Insight_ :
-      - _Design Recommendation_ :
+      Many respondents emphasized the desire to access the app's features without extra steps or confusion. <br/>
+      - _UX Insight_ : Reducing steps in navigation and interactions is essential for user retention and satisfaction. <br/>
+      - _Design Recommendation_ : Minimize the numer of clicks needed to access key features, implement shortcuts or streamlined menus. <br/>
    * **Concern Over Forgetting The Master Password** <br/>
       - _UX Insight_ :
       - _Design Recommendation_ :
