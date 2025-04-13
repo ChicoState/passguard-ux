@@ -7,9 +7,9 @@
 ## Methods
 
 1. Cognitive Walkthrough
-   Two users independently walked through our [Figma wireframe]  (https://www.figma.com/design/jhDGKQwlUj8O7kmT1LcQr2/WireFrame_2?node-id=0-1&p=f&t=7lfkEIRinDBzvPLv-0). At each step of the walkthrough, users were instructed to:
+   Two users independently walked through our [Figma wireframe](https://www.figma.com/design/jhDGKQwlUj8O7kmT1LcQr2/WireFrame_2?node-id=0-1&p=f&t=7lfkEIRinDBzvPLv-0). At each step of the walkthrough, users were instructed to:
       * List the steps they believe a typical user would take to complete a task.
-      * Answer two questions:
+      * Answer two questions:<b
             * **Will the user know what to do at this step?**
             * **If the user does the right thing, will they know that they did the right thing and are progressing toward the goal?**
    This feedback helped us identify where the interface was intuitive and where user may encounter some confusion.
