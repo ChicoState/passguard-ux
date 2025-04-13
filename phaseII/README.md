@@ -6,7 +6,7 @@
 
 ## Methods
 
-1. Cognitive Walkthrough
+1. Cognitive Walkthrough<br/>
    Two users independently walked through our [Figma wireframe](https://www.figma.com/design/jhDGKQwlUj8O7kmT1LcQr2/WireFrame_2?node-id=0-1&p=f&t=7lfkEIRinDBzvPLv-0). At each step of the walkthrough, users were instructed to:
       * List the steps they believe a typical user would take to complete a task.
       * Answer two questions:<br/>
