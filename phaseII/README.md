@@ -11,7 +11,9 @@
       * List the steps they believe a typical user would take to complete a task.
       * Answer two questions:<br/>
             * **Will the user know what to do at this step?** <br/>
-            * **If the user does the right thing, will they know that they did the right thing and are progressing toward the goal?** <br/> This feedback helped us identify where the interface was intuitive and where users may encounter some confusion.
+            * **If the user does the right thing, will they know that they did the right thing and are progressing toward the goal?** <br/>
+
+   This feedback helped us identify where the interface was intuitive and where users may encounter some confusion.
 2. Informal Feature Survey
    We also conducted an informal survey of the software class (approximately **n=35**), we asked:<br/>
    _"What features would you want in an app like this?"_ <br/>
