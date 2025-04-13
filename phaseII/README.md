@@ -45,7 +45,7 @@ From our research methods, we were able to obtain key insights into user behavio
    * **Request for Copt Button Functionality** <br/>
       Users mentioned that copying sensitive information (like passwords) should be quick and seamless. <br/>
       - _UX Insight_ : Small convenience features can have a large impact on perceived usability. <br/>
-      - _Design Recommendation_ : Ass a clearly visible and accessible "Copy" button for relevant fields <br/>
+      - _Design Recommendation_ : Add a clearly visible and accessible "Copy" button for relevant fields <br/>
 
 ## Caveats
 
