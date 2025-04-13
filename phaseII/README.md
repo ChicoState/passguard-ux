@@ -17,7 +17,7 @@
 2. Informal Feature Survey
    We also conducted an informal survey of the software class (approximately **n=35**), we asked:<br/>
    _"What features would you want in an app like this?"_ <br/>
-   The insights acquired from this survey were used to guide our wireframe design, and ensure that the app aligned with user needs.
+   The insights acquired from this survey were used to guide our wireframe design and ensure that the app aligned with user needs.
 
 ## Findings
 
@@ -25,7 +25,24 @@
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From our research methods, we were able to obtain key insights into user behavior, expectations, and interface clarity: <br/>
+
+#**From the Cognitive Walkthrough** <br/>
+   * **Missing Sign-Up Page Identified** <br/>
+      Both users expected a sign-up option during the Walkthrough but they could not find one. This indicated that there is a critical usability gap, highlighting the assumption that account creation is a standard part of app interaction <br/>
+      - _UX Insight_ : Users rely on conventional flows, absence of expected elements can cause uncertainty <br/>
+      - _Design Recommendation_ : Ensure that assumptions are met, especially common assumptions like sigh-up/login <br/>
+
+#**From Informal User Survey** <br/>
+   * **Desire for Quick and Easy Access to Functions** <br/>
+      - _UX Insight_ :
+      - _Design Recommendation_ :
+   * **Concern Over Forgetting The Master Password** <br/>
+      - _UX Insight_ :
+      - _Design Recommendation_ :
+   * **Request for Copt Button Functionality** <br/>
+      - _UX Insight_ :
+      - _Design Recommendation_ :
 
 ## Caveats
 
