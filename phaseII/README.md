@@ -37,13 +37,15 @@ From our research methods, we were able to obtain key insights into user behavio
    * **Desire for Quick and Easy Access to Functions** <br/>
       Many respondents emphasized the desire to access the app's features without extra steps or confusion. <br/>
       - _UX Insight_ : Reducing steps in navigation and interactions is essential for user retention and satisfaction. <br/>
-      - _Design Recommendation_ : Minimize the numer of clicks needed to access key features, implement shortcuts or streamlined menus. <br/>
+      - _Design Recommendation_ : Minimize the number of clicks needed to access key features, and implement shortcuts or streamlined menus. <br/>
    * **Concern Over Forgetting The Master Password** <br/>
-      - _UX Insight_ :
-      - _Design Recommendation_ :
+      Some users raised worries about losing access to the password manager due to forgetting their password. <br/>
+      - _UX Insight_ : Users need to feel secure, but also reassured that recovery is possible. <br/>
+      - _Design Recommendation_ : Implement a secure and user-friendly password recovery system that balances accessibility and protection. <br/>
    * **Request for Copt Button Functionality** <br/>
-      - _UX Insight_ :
-      - _Design Recommendation_ :
+      Users mentioned that copying sensitive information (like passwords) should be quick and seamless. <br/>
+      - _UX Insight_ : Small convenience features can have a large impact on perceived usability. <br/>
+      - _Design Recommendation_ : Ass a clearly visible and accessible "Copy" button for relevant fields <br/>
 
 ## Caveats
 
