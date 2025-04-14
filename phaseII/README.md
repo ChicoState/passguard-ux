@@ -85,8 +85,12 @@ From our research methods, we were able to obtain key insights into user needs, 
 
 While our findings provided valuable insights into usability and user needs, there are several limitations to our research methods and sample: <br/>
    * **Limited User Demographics** <br/>
+      Since our research participants were primarily drawn from UX and software engineering classes. This creates a blind spot in understanding how average, less tech-savvy users might interact with the application. <br/>
    * **Feedback Filtered Through Prior Knowledge** <br/>
+      Participants had prior exposure to concepts such as interface design, coding practices, and usability principles. This results in their feedback being based on technical understanding, which may not reflect the experience of a general user. <br/>
    * **Classroom Context and Informality** <br/>
+      Since both the cognitive walkthrough and survey were conducted in academic settings, responses may have lacked the formality that real-world usability testing would've encouraged. Formal usability testing with a broader and more varied user base would offer more representative data
    * **Assumptions in Persona User** <br/>
+      Cognitive walkthroughs were conducted using personas rather than real users fitting those profiles. This may introduce assumptions about how such users might behave, rather than observing how they actually interact with the app.<br/>
 
-**Future Direction** : 
+**Future Direction** : In future testing, we should focus on including a more diverse participant pool outside of technical disciplines, incorporate real users that reflect our personas, and conduct structured usability testing to gain more representative data.
