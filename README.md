@@ -33,7 +33,7 @@ This is a password manager that will check if your password has been leaked befo
 
 !!!Put phase II Executive Summary here!!!
 
-[Full phase II report](phaseII/)
+[Full phase II report](phaseII/REDME.md)
 
 # Phase III: Prototypes and User Testing
 
