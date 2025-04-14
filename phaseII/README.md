@@ -33,6 +33,7 @@ For each task (signing up, adding passwords), participants answered: <br/>
    * **Concern over forgetting master password** <br/>
    * **Overwhelm due to complexity of features** <br/>
    * **Lack of confirmation screens** <br/>
+   
 **Tiffany**<br/>
    * **Unclear copy feadback** <br/>
    * **Search functionality questions** <br/>
