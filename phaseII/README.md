@@ -17,7 +17,7 @@ The Primary goal for this sprint was to implement general user functions - speci
 For each task (signing up, adding passwords), participants answered: <br/>
 
    * **Will the user know what to do at this step?** <br/>
-   * **If the user does the right think will they know they are making progress?**
+   * **If the user does the right thing will they know they are making progress?**
 
 
    This feedback helped us identify where the interface was intuitive and where users may encounter some confusion.
@@ -31,45 +31,51 @@ For each task (signing up, adding passwords), participants answered: <br/>
 ### **Cognitive Walkthrough** <br/>
 **Grandpa Joe**<br/>
    * **Concern over forgetting master password** <br/>
+      Joe's persona highlighted the potential risk of being locked out if he forgets his master password - recreating the original problem the app was designed to solve. <br/>
    * **Overwhelm due to complexity of features** <br/>
+      The interface may be overwhelming for less tech-savvy users like Joe. <br/>
    * **Lack of confirmation screens** <br/>
+      Joe's walkthrough also highlighted a concern that overwriting existing passwords could happen accidentally, as no confirmation screens were present. <br/>
    
 **Tiffany**<br/>
-   * **Unclear copy feadback** <br/>
+   * **Unclear copy feedback** <br/>
+      The interface provided no visual or audio confirmation that the copy button was pressed, this can lead to uncertainty whether the action succeeded or not. <br/>
    * **Search functionality questions** <br/>
+      Tiffany raised the question of how a question bar should work - whether it filters results live, is case-sensitive, or searches by site name or username. <br/
    * **Missing Sign-Up Page** <br/>
+      Both Tiffany and Joe's walkthroughs revealed the absence of a sing-up page, a basic but essential part of onboarding <br/>
 
 ### **User Survey** <br/>
-An informal survey of approximately 35 students in our software engineering course provided a broader view of desired features and pain points. <br/>
+An informal survey of ~35 students in our software engineering course revealed a broader view of desired features and pain points. <br/>
 **Requested Features**<br/>
    * **Copy Button** <br/>
-     Users want an easy way to copy passwords or usernames. <br/>
+     Users wanted a quick and easy way to copy passwords or usernames. <br/>
    * **Browser Extension** <br/>
-     Some users expressed interest in a browser extension for auto-filling and syncing. <br/>
+     Some users expressed interest in a browser extension for auto-filling and password syncing. <br/>
    * **Searchability for a Site's Password** <br/>
-     Users want to quickly find credentials using a search bar <br/>
+     Users want to be able to quickly find credentials using a search bar <br/>
    * **Stay Logged in** <br/>
-     Several users noted that having to log in frequently can be annoying <br/>
+     Several users noted that frequent logins can become annoying and wanted an option to remain logged in for longer sessions <br/>
 
 ## Conclusions
 
-From our research methods, we were able to obtain key insights into user behavior, expectations, and interface clarity: <br/>
+From our research methods, we were able to obtain key insights into user needs, usability gaps, and expectations: <br/>
 
 ### **From the Cognitive Walkthrough** <br/>
    * **Missing Sign-Up Page Identified** <br/>
-      Both users expected a sign-up option during the Walkthrough but they could not find one. This indicated that there is a critical usability gap, highlighting the assumption that account creation is a standard part of app interaction <br/>
-      - _UX Insight_ : Users rely on conventional flows, absence of expected elements can cause uncertainty. <br/>
-      - _Design Recommendation_ : Ensure that assumptions are met, especially common assumptions like sigh-up/login. <br/>
+      Both users expected a sign-up option during the Walkthrough and were confused by its absence. <br/>
+      - _UX Insight_ : Users rely on familiar, conventional user flows, absence of expected elements can lead to confidence in the interface decreasing. <br/>
+      - _Design Recommendation_ : Include a clearly labeled sign-up page and guide new users through onboarding. <br/>
+   * **Concern Over Forgetting The Master Password** <br/>
+      Users like Jose were especially anxious about being locked out of the password manager due to forgetting their password. <b/>
+      - _UX Insight_ : Users need to feel secure, but also reassured that recovery is possible. <br/>
+      - _Design Recommendation_ : Implement a secure and user-friendly password recovery system or backup  method. <br/>
 
 ### **From Informal User Survey** <br/>
    * **Desire for Quick and Easy Access to Functions** <br/>
       Many respondents emphasized the desire to access the app's features without extra steps or confusion. <br/>
       - _UX Insight_ : Reducing steps in navigation and interactions is essential for user retention and satisfaction. <br/>
       - _Design Recommendation_ : Minimize the number of clicks needed to access key features, and implement shortcuts or streamlined menus. <br/>
-   * **Concern Over Forgetting The Master Password** <br/>
-      Some users raised worries about losing access to the password manager due to forgetting their password. <br/>
-      - _UX Insight_ : Users need to feel secure, but also reassured that recovery is possible. <br/>
-      - _Design Recommendation_ : Implement a secure and user-friendly password recovery system that balances accessibility and protection. <br/>
    * **Request for Copt Button Functionality** <br/>
       Users mentioned that copying sensitive information (like passwords) should be quick and seamless. <br/>
       - _UX Insight_ : Small convenience features can have a large impact on perceived usability. <br/>
