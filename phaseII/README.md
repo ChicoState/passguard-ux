@@ -83,4 +83,10 @@ From our research methods, we were able to obtain key insights into user needs, 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+While our findings provided valuable insights into usability and user needs, there are several limitations to our research methods and sample: <br/>
+   * **Limited User Demographics** <br/>
+   * **Feedback Filtered Through Prior Knowledge** <br/>
+   * **Classroom Context and Informality** <br/>
+   * **Assumptions in Persona User** <br/>
+
+**Future Direction** : 
