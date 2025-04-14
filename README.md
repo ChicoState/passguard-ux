@@ -25,7 +25,7 @@ This is a password manager that will check if your password has been leaked befo
   * with Heuristic Evaluation determined Google password manager is well designed and does similar tasks
   * [Sketches and Diagrams](sketches/)
 
-[Full phase I report](phase I/)
+[Full phase I report](https://github.com/ChicoState/passguard-ux/blob/main/phaseI/README.md)
 
 # Phase II: Refining interaction and designing wireframes
 
