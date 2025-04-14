@@ -67,7 +67,7 @@ From our research methods, we were able to obtain key insights into user needs, 
       - _UX Insight_ : Users rely on familiar, conventional user flows, absence of expected elements can lead to confidence in the interface decreasing. <br/>
       - _Design Recommendation_ : Include a clearly labeled sign-up page and guide new users through onboarding. <br/>
    * **Concern Over Forgetting The Master Password** <br/>
-      Users like Jose were especially anxious about being locked out of the password manager due to forgetting their password. <b/>
+      Users like Joe were especially anxious about being locked out of the password manager due to forgetting their password. <br/>
       - _UX Insight_ : Users need to feel secure, but also reassured that recovery is possible. <br/>
       - _Design Recommendation_ : Implement a secure and user-friendly password recovery system or backup  method. <br/>
 
