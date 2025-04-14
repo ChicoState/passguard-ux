@@ -4,7 +4,7 @@
 
 Our last report established the foundation of our project by outlining core functionalities such as password addition, and password strength checking. </br>
 
-The Primary goal for this sprint was to focus on implementing general user functions - specifically login, sign-up, and password strength feedback, as well as developing the layout of our site. These elements were visualized through a wireframe and evaluated to assess the overall usability of our current design. <br/>
+The Primary goal for this sprint was to implement general user functions - specifically login, sign-up, and password strength feedback, and to further develop the layout of our site. These elements were visualized through a wireframe and evaluated to assess the overall usability of our current design. <br/>
 
 ## Methods
 
