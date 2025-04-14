@@ -28,7 +28,27 @@ For each task (signing up, adding passwords), participants answered: <br/>
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+### **Cognitive Walkthrough** <br/>
+**Grandpa Joe**<br/>
+   * **Concern over forgetting master password** <br/>
+   * **Overwhelm due to complexity of features** <br/>
+   * **Lack of confirmation screens** <br/>
+**Tiffany**<br/>
+   * **Unclear copy feadback** <br/>
+   * **Search functionality questions** <br/>
+   * **Missing Sign-Up Page** <br/>
+
+### **User Survey** <br/>
+An informal survey of approximately 35 students in our software engineering course provided a broader view of desired features and pain points. <br/>
+**Requested Features**<br/>
+   * **Copy Button** <br/>
+     Users want an easy way to copy passwords or usernames. <br/>
+   * **Browser Extension** <br/>
+     Some users expressed interest in a browser extension for auto-filling and syncing. <br/>
+   * **Searchability for a Site's Password** <br/>
+     Users want to quickly find credentials using a search bar <br/>
+   * **Stay Logged in** <br/>
+     Several users noted that having to log in frequently can be annoying <br/>
 
 ## Conclusions
 
