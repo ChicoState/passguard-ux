@@ -31,7 +31,10 @@ This is a password manager that will check if your password has been leaked befo
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+In Phase II we conducted cognitive walkthroughs and gathered informal feedback to evaluate the usability of our design and uncover new insights into user expectations. These evaluations
+revealed that users prioritize **ease of navigation**,**clarity in data organization**, and **accessibility of stored information** as critical factors in the overall user experience. <br/>
+
+The cognitive walkthroughs helped us identify specific areas where users encountered confusion or friction, most importantly in locating stored credentials and understanding the security workflow. The informal feedback gathered during the software engineering demo further highlighted concerns about the simplicity of task flows and visual clarity. <br/>
 
 [Full phase II report](https://github.com/ChicoState/passguard-ux/blob/main/phaseII/README.md)
 
