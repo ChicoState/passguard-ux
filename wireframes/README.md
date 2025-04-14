@@ -1,9 +1,5 @@
 # Wireframes
 
-![!!!Caption for image!!!](!!!filename.png!!!)
-
-!!!Give context by explaining wireframe images!!!
-
 ### Sign-Up Page
 ![Sign-Up Page](SignUp.png)
 
