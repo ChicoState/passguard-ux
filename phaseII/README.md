@@ -23,7 +23,7 @@ For each task (signing up, adding passwords), participants answered: <br/>
    This feedback helped us identify where the interface was intuitive and where users may encounter some confusion.
 ### **Informal Feature Survey**<br/>
    We also conducted an informal survey of the software class (approximately **n=35**), we asked:<br/>
-   _"What features would you want in an app like this?"_ <br/>
+   -_"What features would you want in an app like this?"_ <br/>
    The insights acquired from this survey were used to guide our wireframe design and ensure that the app aligned with user needs.
 
 ## Findings
