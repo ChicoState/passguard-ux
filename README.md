@@ -25,7 +25,7 @@ This is a password manager that will check if your password has been leaked befo
   * with Heuristic Evaluation determined Google password manager is well designed and does similar tasks
   * [Sketches and Diagrams](sketches/)
 
-[Full phase I report](https://github.com/ChicoState/passguard-ux/blob/main/phaseI/README.md)
+[Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
 
@@ -36,7 +36,7 @@ revealed that users prioritize **ease of navigation**,**clarity in data organiza
 
 The cognitive walkthroughs helped us identify specific areas where users encountered confusion or friction, most importantly in locating stored credentials and understanding the security workflow. The informal feedback gathered during the software engineering demo further highlighted concerns about the simplicity of task flows and visual clarity. <br/>
 
-[Full phase II report](https://github.com/ChicoState/passguard-ux/blob/main/phaseII/README.md)
+[Full phase II report](phaseII/)
 
 # Phase III: Prototypes and User Testing
 
