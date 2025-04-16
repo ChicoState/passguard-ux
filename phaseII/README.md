@@ -76,7 +76,7 @@ From our research methods, we were able to obtain key insights into user needs, 
       Many respondents emphasized the desire to access the app's features without extra steps or confusion. <br/>
       - _UX Insight_ : Reducing steps in navigation and interactions is essential for user retention and satisfaction. <br/>
       - _Design Recommendation_ : Minimize the number of clicks needed to access key features, and implement shortcuts or streamlined menus. <br/>
-   * **Request for Copt Button Functionality** <br/>
+   * **Request for Copy Button Functionality** <br/>
       Users mentioned that copying sensitive information (like passwords) should be quick and seamless. <br/>
       - _UX Insight_ : Small convenience features can have a large impact on perceived usability. <br/>
       - _Design Recommendation_ : Add a clearly visible and accessible "Copy" button for relevant fields <br/>
