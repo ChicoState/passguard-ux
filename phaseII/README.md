@@ -12,7 +12,7 @@ The primary goal for this sprint was to implement general user functions - speci
    Two users independently walked through our [wireframe](wireframes/). Each user was assigned one of our existing personas : <br/>
    
    * "_Grandpa Joe_ : A 75-year-old man, who lives with his wife, and is retired. His kids want to keep in contact with him, but Joe is scared that he would not be able to remember any of his passwords" <br/>
-   * "_Tiffany_ : A 32 year woman  who works in the fashion industry, Tiffany works on the cloud, and many other programs." <br/>
+   * "_Tiffany_ : A 32-year-woman  who works in the fashion industry, Tiffany works on the cloud, and many other programs." <br/>
    
 For each task (signing up, adding passwords), participants answered: <br/>
 
