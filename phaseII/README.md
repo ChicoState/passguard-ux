@@ -1,17 +1,17 @@
-# Phase II: Refining interaction and designing wireframes
+# Phase II : Refining interaction and designing wireframes
 
 ## Introduction
 
 Our last report established the foundation of our project by outlining core functionalities such as password addition and password strength checking. </br>
 
-The Primary goal for this sprint was to implement general user functions - specifically login, sign-up, and password strength feedback, and to further develop the layout of our site. These elements were visualized through a wireframe and evaluated to assess the overall usability of our current design. <br/>
+The primary goal for this sprint was to implement general user functions - specifically login, sign-up, and password strength feedback, and to further develop the layout of our site. These elements were visualized through a wireframe and evaluated to assess the overall usability of our current design. <br/>
 
 ## Methods
 
 ### **Cognitive Walkthrough**<br/>
-   Two users independently walked through our [Wireframes](wireframes/). Each user was assigned one of our existing personas: <br/>
+   Two users independently walked through our [wireframe](wireframes/). Each user was assigned one of our existing personas : <br/>
    
-   * "_Grandpa Joe_ : A 75 year old man, who lives with his wife, and is retired. His kids want to keep in contact with him, but Joe is scared that he wont be able to remember any of his passwords" <br/>
+   * "_Grandpa Joe_ : A 75-year-old man, who lives with his wife, and is retired. His kids want to keep in contact with him, but Joe is scared that he would not be able to remember any of his passwords" <br/>
    * "_Tiffany_ : A 32 year woman  who works in the fashion industry, Tiffany works on the cloud, and many other programs." <br/>
    
 For each task (signing up, adding passwords), participants answered: <br/>
@@ -22,7 +22,7 @@ For each task (signing up, adding passwords), participants answered: <br/>
 
    This feedback helped us identify where the interface was intuitive and where users may encounter some confusion.
 ### **Informal Feature Survey**<br/>
-   We also conducted an informal survey of the software class (approximately **n=35**), we asked:<br/>
+   We also conducted an informal survey of the software class (approximately **n=35**), we asked :<br/>
    -_"What features would you want in an app like this?"_ <br/>
    The insights acquired from this survey were used to guide our wireframe design and ensure that the app aligned with user needs.
 
@@ -41,9 +41,9 @@ For each task (signing up, adding passwords), participants answered: <br/>
    * **Unclear copy feedback** <br/>
       The interface provided no visual or audio confirmation that the copy button was pressed, this can lead to uncertainty whether the action succeeded or not. <br/>
    * **Search functionality questions** <br/>
-      Tiffany raised the question of how a question bar should work - whether it filters results live, is case-sensitive, or searches by site name or username. <br/
+      Tiffany raised the question of how a search bar should work - whether it filters results live, is case-sensitive, or searches by site name or username. <br/
    * **Missing Sign-Up Page** <br/>
-      Both Tiffany and Joe's walkthroughs revealed the absence of a sing-up page, a basic but essential part of onboarding <br/>
+      Both Tiffany and Joe's walkthroughs revealed the absence of a sign-up page, a basic but essential part of onboarding <br/>
 
 ### **User Survey** <br/>
 An informal survey of ~35 students in our software engineering course revealed a broader view of desired features and pain points. <br/>
@@ -59,7 +59,7 @@ An informal survey of ~35 students in our software engineering course revealed a
 
 ## Conclusions
 
-From our research methods, we were able to obtain key insights into user needs, usability gaps, and expectations: <br/>
+From our research methods, we were able to obtain key insights into user needs, usability gaps, and expectations : <br/>
 
 ### **From the Cognitive Walkthrough** <br/>
    * **Missing Sign-Up Page Identified** <br/>
@@ -83,7 +83,7 @@ From our research methods, we were able to obtain key insights into user needs, 
 
 ## Caveats
 
-While our findings provided valuable insights into usability and user needs, there are several limitations to our research methods and sample: <br/>
+While our findings provided valuable insights into usability and user needs, there are several limitations to our research methods and sample : <br/>
    * **Limited User Demographics** <br/>
       Since our research participants were primarily drawn from UX and software engineering classes. This creates a blind spot in understanding how average, less tech-savvy users might interact with the application. <br/>
    * **Feedback Filtered Through Prior Knowledge** <br/>
