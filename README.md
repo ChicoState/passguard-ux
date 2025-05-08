@@ -42,6 +42,6 @@ The cognitive walkthroughs helped us identify specific areas where users encount
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+In PhaseIII we created a prototype of the wireframe with actions to **evaluate** the usability of the web applications. With a set protocol of background questions, tasks and a debrief of the overall evaluation. 
 
 [Full phase III report](phaseIII/)
