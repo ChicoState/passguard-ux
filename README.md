@@ -5,7 +5,7 @@ This is a password manager that will check if your password has been leaked befo
 
 ## UX Team Members
 
-* **[Malene-Kavanagh](https://github.com/UsabilityEngineering/portfolio-Malene-Kavanagh)** - !!!List of Person A's primary contributions!!!
+* **[Malene-Kavanagh](https://github.com/UsabilityEngineering/portfolio-Malene-Kavanagh)** - made the competitive analysis, set up the meetings for team agreement and planning, created the personas and scenerios, team effort on divergent sketch, created the wireframe, wrote phase1, edited phase2, started phase3, set up meeting for second sprint planning, team effort on usability test plan, team effort on the draft protocol, Created the prototype, Animated the prototype, cleaned up and edited the final protocol.
 * **[Alexander-Baron](https://github.com/alexb02h/AlexBaronPortfolio/tree/main/journal)** - !!!List of Person B's primary contributions!!!
 
 
