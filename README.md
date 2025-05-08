@@ -14,7 +14,7 @@ This is a password manager that will check if your password has been leaked befo
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/8WJqPwkc294DRXl0BsaShL/Prototype?node-id=4011-2&starting-point-node-id=4011%3A2)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
