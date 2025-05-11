@@ -2,13 +2,14 @@
 
 ## Introduction
 
-Made a prototype and seeing how people interact with the website
+In this phase, we transitioned from wireframes to a functional prototype, integrating core user features such as login, sign-up, and password strength feedback. Our primary focus was to observe how users interact with the live website and gather insights into the effectiveness of our current design. By conducting informal user testing and analyzing feedback, we aimed to identify usability issues, refine interactive elements, and guide further interface iterations.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
-I created a prototype based on the web application made by the software team. 
+To gather further insights about user behavior and interface usability, we conducted observational testing using a functional prototype based on the software team's web application. The following methods were used: **Task-Based Usability Testing**,**Think-Aloud Protocol**,**Observation and Note-Taking**, and **Post-Test Interviews**.
 
+  In our **Task-Based Usability Testing**, participants were asked to complete specific tasks using our prototype. These tasks were: _Add a new password entry_,_Use the password strength checker_,_generate a password_,_Delete a password_,_Copy a password_. The success or failure of each task was recorded along with a self-reported difficulty rating on a scale from 1(very easy) to 10(very difficult).
+  
 ## Findings
 
 !!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
