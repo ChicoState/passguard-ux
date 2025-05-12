@@ -6,7 +6,7 @@ This is a password manager that will check if your password has been leaked befo
 ## UX Team Members
 
 * **[Malene-Kavanagh](https://github.com/UsabilityEngineering/portfolio-Malene-Kavanagh)** - made the competitive analysis, set up the meetings for team agreement and planning, created the personas and scenerios, team effort on divergent sketch, created the wireframe, wrote phase1, edited phase2, started phase3, set up meeting for second sprint planning, team effort on usability test plan, team effort on the draft protocol, Created the prototype, Animated the prototype, cleaned up and edited the final protocol.
-* **[Alexander-Baron](https://github.com/alexb02h/AlexBaronPortfolio/tree/main/journal)** - !!!List of Person B's primary contributions!!!
+* **[Alexander-Baron](https://github.com/alexb02h/AlexBaronPortfolio/tree/main/journal)** - team effort on divergent sketch, wrote phase 2, finished phase 3, team effort on usability test plan, team effort on the draft protocol, team effort on User Testing.
 
 
 # User-Centered Design Artifacts
@@ -31,7 +31,7 @@ This is a password manager that will check if your password has been leaked befo
 
 **Executive Summary**
 
-In Phase II we conducted cognitive walkthroughs and gathered informal feedback to evaluate the usability of our design and uncover new insights into user expectations. These evaluations
+In Phase II, we conducted cognitive walkthroughs and gathered informal feedback to evaluate the usability of our design and uncover new insights into user expectations. These evaluations
 revealed that users prioritize **ease of navigation**,**clarity in data organization**, and **accessibility of stored information** as critical factors in the overall user experience. <br/>
 
 The cognitive walkthroughs helped us identify specific areas where users encountered confusion or friction, most importantly in locating stored credentials and understanding the security workflow. The informal feedback gathered during the software engineering demo further highlighted concerns about the simplicity of task flows and visual clarity. <br/>
@@ -42,6 +42,8 @@ The cognitive walkthroughs helped us identify specific areas where users encount
 
 **Executive Summary**
 
-In PhaseIII we created a prototype of the wireframe with actions to **evaluate** the usability of the web applications. With a set protocol of background questions, tasks and a debrief of the overall evaluation. 
+In Phase III, we transitioned from wireframes to a functional prototype and conducted usability testing to evaluate key features such as login, sign-up, password strength checking, and password management. Using **Task-based testing**, **surveys**, and **interviews with classmates as participants**, we identified usability challenges related to unclear icons, visudal clutter, and the need for better onboarding and feedback cues.
+
+In response, we implemented hover tooltips anddeveloped desing recommendations including clearer iconography, improved layout structures, and expanded security messageing. While the test group was small and not fully representative of a diverse user base, the findings revealed consistent patterns that informed meaningful improvements to PassGuard's user experience.
 
 [Full phase III report](phaseIII/)
