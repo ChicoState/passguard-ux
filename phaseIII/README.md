@@ -32,7 +32,7 @@ Finally, through **Thematic Observation**, we documented user behavior during te
 
 ## Conclusions
 
-User testing revealed several usability challenges that led to key design insights and improvements. Participants often struggled with icons related to password strength and deletion. We implemented **hover tooltips** and recommend continuing to add labels or hints for non-standard icons. Tasks involving familiar symbols (like "copy") were consistently completed with ease, reinforcing the importance of standard iconography - such as trash can for delete - to reduce user confusion.
+User testing revealed several usability challenges that led to key design insights and improvements. Participants often struggled with icons related to password strength and deletion. We implemented hover tooltips and recommend continuing to add labels or hints for non-standard icons. Tasks involving familiar symbols (like "copy") were easily completed, reinforcing the importance of standard iconography, such as trash cans for delete, to reduce user confusion.
 
 Some users found the password list visually overwhelming. To address this, we recommend _decluttering the layout, _grouping related functions_, and _improving spacing and labeling_ to enhance clarity. Additionally, several participants noted the overuse of blue, which impacted readability. A more diverse and accessible color palette would improve visual structure and usability.
 
@@ -40,4 +40,6 @@ Participants with prior security concerns expressed a desire for greater transpa
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! the test group is not representative of the whole user base.
+While our user testing provided valuable insights, there are several limitations to consider when interpreting the findings. One such limitation is that our test group was small and consisted primarily of fellow classmates, which does not fully represent the broader user base. Most participants had some familiarity with password managers, which may have influenced their ease of use and expectations. As a result, the findings may not reflect the experience of less tech-savvy or novice users. 
+
+The testing was also conducted in a controlled environment, which may not fully capture how users interact with the product in real-world scenarios. The study also lacked diversity in age, background, and technical experience, further limiting the generalizability of the results. Despite these constraints, the study revealed consistent usability trends and actionable design improvements. 
