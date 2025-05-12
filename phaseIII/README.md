@@ -18,7 +18,7 @@ Before beginning the tasks, participants completed a **Pre-Test Survey**, which 
   
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+Participants generally completed the **Task-Based Usability Testing** successfully, but several usability issues emerged in Tasks 2 and 4. In **Task 2**, participants were tasked with checking the strength of their password; most users succeeded, however, some struggled to interpret the password strength icon. Symbols such as the shield and percentage circle were described as ambiguous or unclear. This suggests a need for more explicit labels or tooltip explanations for unfamiliar icons. **Task 4** tasked the user with deleting a password; this was the most challenging task. Two participants failed, and others reported moderate difficulty. The delete button was often misidentified or missed entirely, with users expecting a trash can icon instead of the current position. This reflects a user need for standard visual metaphors aligned with common UI conventions. The task where the participant needed to copy a password, **Task 5**, the participants performed well here, citing the familiarity of the copy symbol. Highlighting the value of using well-known UI patterns to reduce confusion.
 
 ## Conclusions
 
