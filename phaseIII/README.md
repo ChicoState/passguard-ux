@@ -32,11 +32,11 @@ Finally, through **Thematic Observation**, we documented user behavior during te
 
 ## Conclusions
 
-User testing revealed several usability challenges that led to key design insights and improvements. Participants struggled with icons for password strength and delete actions. We addressed this by **implementing hover tooltips** and recommend continuing to add labels or hints for non-standard icons. Tasks involving familiar symbols (like "copy") were completed easily, while unclear icons led to errors. Future designs should use standard metaphors -e.g., a trash can for delete- to reduce confusion.
+User testing revealed several usability challenges that led to key design insights and improvements. Participants often struggled with icons related to password strength and deletion. We implemented **hover tooltips** and recommend continuing to add labels or hints for non-standard icons. Tasks involving familiar symbols (like "copy") were consistently completed with ease, reinforcing the importance of standard iconography - such as trash can for delete - to reduce user confusion.
 
-Some users found the password list overwhelming. To improve this, we recommend _decluttering the interface_, _grouping related functions_, and _using spacing and labels_ for easier navigation. Multiple users also felt the interface used too much blue, affecting visual clarity. A more varied and accessible color palette will improve readability and interface differentiation.
+Some users found the password list visually overwhelming. To address this, we recommend _decluttering the layout, _grouping related functions_, and _improving spacing and labeling_ to enhance clarity. Additionally, several participants noted the overuse of blue, which impacted readability. A more diverse and accessible color palette would improve visual structure and usability.
 
-Users with prior security issues wanted more transparency. Adding brief explanations or info tooltips about features like strength checking or leak detection can help build confidence. These insights are shaping our next design iteration to make PassGuard more intuitive, trustworthy, and accessible.
+Participants with prior security concerns expressed a desire for greater transparency around how features like password strength checking and leak detection work. Adding brief explanations or info tooltips can help build user trust and understanding. These insights are directly shaping our next iteration, with a focus on making PassGuard more intuitive, accessible, and user-centered.
 
 ## Caveats
 
