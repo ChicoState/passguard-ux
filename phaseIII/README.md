@@ -32,7 +32,11 @@ Finally, through **Thematic Observation**, we documented user behavior during te
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+User testing revealed several usability challenges that led to key design insights and improvements. Participants struggled with icons for password strength and delete actions. We addressed this by **implementing hover tooltips** and recommend continuing to add labels or hints for non-standard icons. Tasks involving familiar symbols (like "copy") were completed easily, while unclear icons led to errors. Future designs should use standard metaphors -e.g., a trash can for delete- to reduce confusion.
+
+Some users found the password list overwhelming. To improve this, we recommend _decluttering the interface_, _grouping related functions_, and _using spacing and labels_ for easier navigation. Multiple users also felt the interface used too much blue, affecting visual clarity. A more varied and accessible color palette will improve readability and interface differentiation.
+
+Users with prior security issues wanted more transparency. Adding brief explanations or info tooltips about features like strength checking or leak detection can help build confidence. These insights are shaping our next design iteration to make PassGuard more intuitive, trustworthy, and accessible.
 
 ## Caveats
 
