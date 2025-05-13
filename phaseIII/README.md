@@ -18,7 +18,9 @@ Before beginning the tasks, participants completed a **Pre-Test Questionnaire**,
   
 ## Findings
 
-Participants generally completed the **Task-Based Usability Testing** successfully, but several usability issues emerged, particularly in **Tasks 2 and 4**. In **Task 1**, we tasked the users with checking one of their passwords. This task had a success rate of 100%, with all participants completing this task with ease, which showed with most participants except one, giving this task a very easy(1) difficulty.
+Participants generally completed the **Task-Based Usability Testing** successfully, but several usability issues emerged, particularly in **Tasks 2 and 4**. 
+
+In **Task 1**, we tasked the users with checking one of their passwords. This task had a success rate of 100%, with all participants completing this task with ease, which showed with most participants except one, giving this task a very easy(1) difficulty.
 
 **Task 2** asked the users to check the security of a password. One participant was unable to complete the task. Several users found the password strength icon unclear or ambiguous, highlighting the need for tooltip labels or explanatory UI elements. The participant who was unable to complete the task, citing that the shield was too hard to recognize as the button to check the passwords. Most users still struggled with this task, which shows in most of the users reporting an easy(2) difficulty,
 
